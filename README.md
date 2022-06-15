@@ -96,6 +96,6 @@ Here goes my descrip.! I am still under construction || I can also make this tot
 <p align="center">
 	<a href="https://github.com/PriyodarshiGhosh" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="www.linkedin.com/in/priyodarshi-ghosh-385358214" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	</a>
-	<a href="mailto:E21CSEU0016@bennett.edu.in" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	
+	
 </p>
