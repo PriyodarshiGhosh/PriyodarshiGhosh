@@ -95,7 +95,7 @@ Here goes my descrip.! I am still under construction || I can also make this tot
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="https://github.com/PriyodarshiGhosh" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/priyodarshi-ghosh-385358214" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/priyodarshi-ghosh-385358214" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 	
 </p>
